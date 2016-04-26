@@ -31,7 +31,7 @@
 		<framework src="src/android/build.gradle" custom="true" type="gradleReference" />
 
         <!-- plugin src files -->
-        <source-file src="src/android/ArcGISPlugin.java" target-dir="com/spongyt/cordova/plugins/arcgis" />
+        <source-file src="src/android/ArcGISPlugin.java" target-dir="src/com/spongyt/cordova/plugins/arcgis" />
 
         <config-file target="AndroidManifest.xml" parent="/manifest">
 
