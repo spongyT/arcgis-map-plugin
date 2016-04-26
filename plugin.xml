@@ -30,7 +30,7 @@
         <framework src="com.esri.arcgis.android:arcgis-android:10.2.7" />
 
         <!-- plugin src files -->
-        <source-file src="src/android/com/spongyt/cordova/plugins/arcgis/ArcGISPlugin" target-dir="com/spongyt/cordova/plugins/arcgis" />
+        <source-file src="src/android/ArcGISPlugin.java" target-dir="com/spongyt/cordova/plugins/arcgis" />
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
 
