@@ -1,0 +1,35 @@
+{
+  "name": "arcgis-map-plugin",
+  "version": "0.0.1",
+  "description": "ESRI ArcGIS Maps native SDK for Android",
+  "cordova": {
+    "id": "arcgis-map-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spongyT/arcgis-map-plugin.git"
+  },
+  "keywords": [
+    "esri",
+    "maps",
+    "geo",
+    "arcgis maps",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "spongy",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/spongyT/arcgis-map-plugin/issues"
+  },
+  "homepage": "https://github.com/spongyT/arcgis-map-plugin"
+}
