@@ -23,14 +23,14 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="ArcGIS">
-                <param name="android-package" value="com.spongyt.corodova.plugins.arcgis.ArcGISPlugin" />
+                <param name="android-package" value="com.spongyt.cordova.plugins.arcgis.ArcGISPlugin" />
             </feature>
         </config-file>
 
         <framework src="com.esri.arcgis.android:arcgis-android:10.2.7" />
 
         <!-- plugin src files -->
-        <source-file src="src/android/com/spongyt/corodova/plugins/arcgis/ArcGISPlugin" target-dir="com/spongyt/corodova/plugins/arcgis" />
+        <source-file src="src/android/com/spongyt/cordova/plugins/arcgis/ArcGISPlugin" target-dir="com/spongyt/cordova/plugins/arcgis" />
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
 
