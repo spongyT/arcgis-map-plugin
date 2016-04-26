@@ -17,14 +17,8 @@
 
     <!-- android -->
     <platform name="android">
-        <preference name="API_KEY_FOR_ANDROID" />
 
         <info>
-             In order to run this plugin, you need to obtain Google Maps API key for Android.
-             Visit https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Installation
-
-             Check our release notes.
-             https://github.com/wf9a5m75/phonegap-googlemaps-plugin/wiki/Release-Notes
         </info>
 
         <config-file target="res/xml/config.xml" parent="/*">
