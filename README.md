@@ -1,5 +1,7 @@
 # ArcGIS Map Plugin
 
+[![Build Status](https://github.com/spongyT/arcgis-map-plugin/blob/master/spongyT.svg)](https://github.com/spongyT)
+
 Phonegap plugin for native ArcGIS Map SDK´s.
 
 ### Supported platforms:
