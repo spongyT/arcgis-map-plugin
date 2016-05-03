@@ -4,6 +4,8 @@ Phonegap plugin for native ArcGIS Map SDK´s.
 
 ### Supported platforms:
 - Android
+- iOS (planned)
+- Windows mobile (planned)
 
 ### Version
 0.1
